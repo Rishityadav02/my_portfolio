@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://drive.google.com/drive/my-drive?q=after:2023-05-10">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://www.istockphoto.com/photo/womans-hand-with-a-tree-she-is-planting-environmental-conservation-concept-protect-gm1438931606-479317207?utm_source=flickr&utm_medium=affiliate&utm_campaign=Explore_photos_sponsored&utm_term=nature&utm_content=https%3A%2F%2Fwww.flickr.com%2Fexplore&ref=sponsored">
 
 Built using:
 
